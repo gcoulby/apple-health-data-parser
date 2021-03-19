@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.894bd7f5.chunk.css",
+    "main.js": "/static/js/main.b55f77ed.chunk.js",
+    "main.js.map": "/static/js/main.b55f77ed.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.adf2de44.js",
+    "runtime-main.js.map": "/static/js/runtime-main.adf2de44.js.map",
+    "static/css/2.3c3dd20a.chunk.css": "/static/css/2.3c3dd20a.chunk.css",
+    "static/js/2.f1ad0ba4.chunk.js": "/static/js/2.f1ad0ba4.chunk.js",
+    "static/js/2.f1ad0ba4.chunk.js.map": "/static/js/2.f1ad0ba4.chunk.js.map",
+    "static/js/3.cf241ef2.chunk.js": "/static/js/3.cf241ef2.chunk.js",
+    "static/js/3.cf241ef2.chunk.js.map": "/static/js/3.cf241ef2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.3c3dd20a.chunk.css.map": "/static/css/2.3c3dd20a.chunk.css.map",
+    "static/css/main.894bd7f5.chunk.css.map": "/static/css/main.894bd7f5.chunk.css.map",
+    "static/js/2.f1ad0ba4.chunk.js.LICENSE.txt": "/static/js/2.f1ad0ba4.chunk.js.LICENSE.txt",
+    "static/media/erdf.dd68eb2a.svg": "/static/media/erdf.dd68eb2a.svg",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/northumbria.9f973ad5.svg": "/static/media/northumbria.9f973ad5.svg",
+    "static/media/ryder.0a9e1d7e.svg": "/static/media/ryder.0a9e1d7e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adf2de44.js",
+    "static/css/2.3c3dd20a.chunk.css",
+    "static/js/2.f1ad0ba4.chunk.js",
+    "static/css/main.894bd7f5.chunk.css",
+    "static/js/main.b55f77ed.chunk.js"
+  ]
+}
