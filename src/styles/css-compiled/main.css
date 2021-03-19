@@ -1,0 +1,17 @@
+#drop_zone {
+  border-radius: 5px;
+  padding: 5em;
+  text-align: center;
+  color: #bbb;
+  border: 2px dashed #bbb;
+}
+
+#category {
+  padding: 0;
+}
+
+#category li {
+  list-style: none;
+  text-align: left;
+  font-size: 25px;
+}
