@@ -6,7 +6,7 @@ This application was developed to support research funded by Northumbria Univers
 
 
 
-[![European Regional Development Fund logo](http://localhost:3000/static/media/erdf.dd68eb2a.svg)](https://ec.europa.eu/regional_policy/en/funding/erdf/)			[![Northumbria University Logo](http://localhost:3000/static/media/northumbria.9f973ad5.svg)](https://www.northumbria.ac.uk/)			[![Ryder Architecture Logo](http://localhost:3000/static/media/ryder.0a9e1d7e.svg)](https://ryderarchitecture.com/)
+[![European Regional Development Fund logo](https://raw.githubusercontent.com/gcoulby/apple-health-data-parser/master/src/img/erdf.svg)](https://ec.europa.eu/regional_policy/en/funding/erdf/)			[![Northumbria University Logo](https://raw.githubusercontent.com/gcoulby/apple-health-data-parser/master/src/img/northumbria.svg)](https://www.northumbria.ac.uk/)			[![Ryder Architecture Logo](https://raw.githubusercontent.com/gcoulby/apple-health-data-parser/master/src/img/ryder.svg)](https://ryderarchitecture.com/)
 
 
 
@@ -14,7 +14,7 @@ This application was developed to support research funded by Northumbria Univers
 
 This application is available for use without installation via GitHub pages. This application can be found here:
 
-
+https://gcoulby.github.io/apple-health-data-parser/
 
 ### Instructions
 
